@@ -1,0 +1,28 @@
+{
+    "folder-color.pathColors": [
+        {
+            "folderPath": "Backend/src/controllers/",
+            "color": "foldercolorizer.LightRed"
+        },
+        {
+            "folderPath": "Backend/src/",
+            "color": "foldercolorizer.SandyTan"
+        },
+        {
+            "folderPath": "Backend/src/routes/",
+            "color": "foldercolorizer.Coral"
+        },
+        {
+            "folderPath": "Backend/src/models/",
+            "color": "foldercolorizer.Platinum"
+        },
+        {
+            "folderPath": "Backend/src/middlewares/",
+            "color": "foldercolorizer.PureGold"
+        },
+        {
+            "folderPath": "Backend/src/db/",
+            "color": "foldercolorizer.LightYellow"
+        }
+    ]
+}
