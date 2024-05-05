@@ -17,7 +17,8 @@
     "url": "https://github.com/Harsh7880/Backend/issues"
   },
   "homepage": "https://github.com/Harsh7880/Backend#readme",
-  "devDependencies": { 
-    "nodemon": "^3.1.0"
+  "devDependencies": {
+    "nodemon": "^3.1.0",
+    "prettier": "^3.2.5"
   }
 }
